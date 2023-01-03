@@ -31,7 +31,7 @@ export const Navbar = () => {
             P
           </Text>
           <Text color="white" h3>
-            okemon
+            okemon!
           </Text>
         </Link>
       </NextLink>
